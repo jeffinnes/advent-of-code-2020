@@ -2,7 +2,7 @@
   "name": "advent-of-code-2020",
   "version": "1.0.0",
   "description": "My attempt at completing the 2020 Advent of Code",
-  "main": "app.js",
+  "main": "none",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
